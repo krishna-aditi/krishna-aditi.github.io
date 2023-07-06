@@ -9,9 +9,13 @@
 snow 3 days in advance based on 5 days of historical data
 - Boosted the overall accuracy of Lake-effect snow prediction by 43%, surpassing the baseline decision tree model
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
+[![](https://img.shields.io/badge/Keras-white?logo=Keras)](#)
+[![](https://img.shields.io/badge/Scikitlearn-white?logo=Scikitlearn)](#)
 
-[View code on Github]()
+[View code on Github](https://github.com/krishna-aditi/Lake-Effect-Snow-Prediction/tree/main)
 
 ---
 
