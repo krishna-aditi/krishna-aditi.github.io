@@ -29,6 +29,7 @@ and BERT, for stock news summarization and sentiment analysis
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Data Studio
 
 <img src="images/mobility.png?raw=true" />
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
