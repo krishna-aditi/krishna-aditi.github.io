@@ -33,12 +33,12 @@ and BERT, for stock news summarization and sentiment analysis
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
 [![](https://img.shields.io/badge/Airflow-white?logo=Airflow)](#)
-[![](https://img.shields.io/badge/Airflow-white?logo=Airflow)](#)
-[![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
 [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
 [![](https://img.shields.io/badge/FastAPI-white?logo=FastAPI)](#)
 [![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
 [![](https://img.shields.io/badge/GCP-white?logo=GCP)](#)
+
 [View code on Github](https://github.com/krishna-aditi/nlp-sentiment-analysis-on-stock-news-and-price-monitoring)
 
 --- 
