@@ -89,22 +89,6 @@ for each reservation
 
 ---
 
-### Hotel Database Management System
-- Designed and implemented a relational database using SQL to build a unified system for hotel businesses to enable
-reservation management of rooms, restaurants, and events
-- Created triggers to compute membership status based on total points earned by customer, and final amount due on invoice
-for each reservation
-- Built a dashboard in Tableau to visualize the performance of various revenue segments, such as memberships and events
-
-
-[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
-[![](https://img.shields.io/badge/SQLServer-white?logo=SQLServer)](#)
-[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
-
-[View code on Github](https://github.com/krishna-aditi/hotel-database-management-systems)
-
----
-
 ### Product Recommendation based on Market Basket Analysis and Customer Segmentation using RFM Analysis
 - Built a web app using Streamlit to provide product recommendations based on association rules generated using Apriori Algorithm for similar customers
 - Performed Market Basket Analysis to develop more effective product placement, pricing, cross-sell, and up-sell strategies on retail dataset
