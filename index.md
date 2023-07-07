@@ -73,9 +73,57 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 
 ---
 
+### Hotel Database Management System
+- Designed and implemented a relational database using SQL to build a unified system for hotel businesses to enable
+reservation management of rooms, restaurants, and events
+- Created triggers to compute membership status based on total points earned by customer, and final amount due on invoice
+for each reservation
+- Built a dashboard in Tableau to visualize the performance of various revenue segments, such as memberships and events
+
+
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/SQLServer-white?logo=SQLServer)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[View code on Github](https://github.com/krishna-aditi/hotel-database-management-systems)
+
+---
+
+### Hotel Database Management System
+- Designed and implemented a relational database using SQL to build a unified system for hotel businesses to enable
+reservation management of rooms, restaurants, and events
+- Created triggers to compute membership status based on total points earned by customer, and final amount due on invoice
+for each reservation
+- Built a dashboard in Tableau to visualize the performance of various revenue segments, such as memberships and events
+
+
+[![](https://img.shields.io/badge/SQL-white?logo=SQL)](#) 
+[![](https://img.shields.io/badge/SQLServer-white?logo=SQLServer)](#)
+[![](https://img.shields.io/badge/Tableau-white?logo=Tableau)](#)
+
+[View code on Github](https://github.com/krishna-aditi/hotel-database-management-systems)
+
+---
+
+### Product Recommendation based on Market Basket Analysis and Customer Segmentation using RFM Analysis
+- Built a web app using Streamlit to provide product recommendations based on association rules generated using Apriori Algorithm for similar customers
+- Performed Market Basket Analysis to develop more effective product placement, pricing, cross-sell, and up-sell strategies on retail dataset
+- Identified target customer segments using RFM analysis to build promotional strategies
+- Provide an interactive dashboard to analyze country-level performance of products, customers, and sales revenue statistics on a monthly, weekly, and daily level
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)
+[![](https://img.shields.io/badge/Apriori-white?logo=Apriori)](#) 
+[![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
+
+[View code on Github](https://github.com/krishna-aditi/product-recommendation-based-on-market-basket-analysis-and-rfm-analysis)
+
+---
+
 ### Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
-- [Anazlysing mobile features and price range classification](https://github.com/krishna-aditi/mobile-price-range-classification/blob/main/mobile-price-classification.ipynb)
+- [Analysis and Estimation of Global Energy Consumption](https://github.com/krishna-aditi/analysis-and-estimation-of-global-energy-consumption) 
+- [Streamlit App to perform RFM Analysis and A/B Testing](https://github.com/krishna-aditi/rfm-analysis-and-ab-testing-streamlit)
+- [Mowgli: Building a Comic Book using Python](https://github.com/krishna-aditi/comic-books-using-python/blob/main/Comic-Mowgli.ipynb)
 
 ---
