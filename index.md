@@ -106,6 +106,7 @@ for each reservation
 ### Skills-based projects
 A selection of smaller projects demonstrating specific data science and ML skills.
 
+- [Airbnb Price Prediction for San Francisco](https://github.com/krishna-aditi/sanfrancisco-airbnb-price-prediction/blob/main/san-francisco-airbnb-price-prediction-git2.ipynb)
 - [Analysis and Estimation of Global Energy Consumption](https://github.com/krishna-aditi/analysis-and-estimation-of-global-energy-consumption) 
 - [Streamlit App to perform RFM Analysis and A/B Testing](https://github.com/krishna-aditi/rfm-analysis-and-ab-testing-streamlit)
 - [Mowgli: Building a Comic Book using Python](https://github.com/krishna-aditi/comic-books-using-python/blob/main/Comic-Mowgli.ipynb)
