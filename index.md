@@ -1,3 +1,4 @@
+<!--
 ## Work Experience
 
 ---
@@ -10,6 +11,7 @@ resulting in the reduction of manual intervention on suspect purchase orders fro
 - Designed process metrics and weekly business review reports for the internal stakeholders to analyze KPIs
 
 --- 
+-->
 
 ## Projects in Data Science and Machine Learning
 
