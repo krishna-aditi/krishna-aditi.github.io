@@ -28,7 +28,8 @@ and BERT, for stock news summarization and sentiment analysis
 - Orchestrated workflow pipelines using Apache Airflow and hosted the application on Google App Engine for daily updates
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Data Studio
 
-<img src="images/mobility.png?raw=true" />
+<img src="https://github.com/krishna-aditi/nlp-sentiment-analysis-on-stock-news-and-price-monitoring/blob/main/reports/figures/live-api-dashboard.png"/> <img src=""/>
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
