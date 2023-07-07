@@ -118,8 +118,7 @@ for each reservation
 
 ---
 
-### Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
+### Other projects
 
 - [Airbnb Price Prediction for San Francisco](https://github.com/krishna-aditi/sanfrancisco-airbnb-price-prediction/blob/main/san-francisco-airbnb-price-prediction-git2.ipynb)
 - [Analysis and Estimation of Global Energy Consumption](https://github.com/krishna-aditi/analysis-and-estimation-of-global-energy-consumption) 
