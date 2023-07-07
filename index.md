@@ -28,8 +28,6 @@ and BERT, for stock news summarization and sentiment analysis
 - Orchestrated workflow pipelines using Apache Airflow and hosted the application on Google App Engine for daily updates
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Data Studio
 
-<img src="images/Stock_news_prediction.png?raw=true" width="500" height="250"/>z
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Airflow-white?logo=Airflow)](#)
 [![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
@@ -56,31 +54,28 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 [![](https://img.shields.io/badge/Scikitlearn-white?logo=Scikitlearn)](#)
 
-[View code on Github](https://github.com/krishna-aditi/nlp-sentiment-analysis-on-stock-news-and-price-monitoring](https://github.com/krishna-aditi/customer-segmentation-and-profiling/blob/main/customer-segmentation-clustering.ipynb)
+[View code on Github](https://github.com/krishna-aditi/customer-segmentation-and-profiling/blob/main/customer-segmentation-clustering.ipynb)
 
 --- 
 
-### Category Name 1 
+### WebApp for Visual Search using DeepFashion Dataset
+- Implemented Similarity Search Algorithm built by [Ilya Katsov](https://github.com/ikatsov/tensor-house/blob/master/search/visual-search-artistic-style.ipynb)
+- Enabled data ingestion and search on Elastic Cloud using Python Client and Kibana Console
+- Build a Streamlit web interface to allow users to choose the product of their liking and view k-similar images that they might like
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/ElasticSearch-white?logo=ElasticSearch)](#)
+[![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+[![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#) 
+
+[View code on Github](https://github.com/krishna-aditi/webapp-for-visual-search-on-deepfashion-dataset/tree/main)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Skills-based projects
+A selection of smaller projects demonstrating specific data science and ML skills.
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Anazlysing mobile features and price range classification](https://github.com/krishna-aditi/mobile-price-range-classification/blob/main/mobile-price-classification.ipynb)
 
 ---
