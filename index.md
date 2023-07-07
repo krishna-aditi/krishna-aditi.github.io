@@ -1,12 +1,15 @@
 ## Work Experience
 
 ---
-Data Analyst - Buyer Risk Prevention 
+
+### Data Analyst - Buyer Risk Prevention 
 - Improved digital gift card ordering experience by generating analytical customer insights and developing rules that
 minimized type 1 errors in fraud identification, contributing to a boost of 58% in daily processed order volume
 - Collaborated with machine learning scientists to define a process for adding new rules to the order processing system,
 resulting in the reduction of manual intervention on suspect purchase orders from 2% to 1.4% across the EU marketplace
 - Designed process metrics and weekly business review reports for the internal stakeholders to analyze KPIs
+
+--- 
 
 ## Projects in Data Science and Machine Learning
 
