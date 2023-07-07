@@ -2,7 +2,7 @@
 
 ---
 
-### Data Analyst - Buyer Risk Prevention 
+### Data Analyst - Buyer Risk Prevention, Amazon 
 - Improved digital gift card ordering experience by generating analytical customer insights and developing rules that
 minimized type 1 errors in fraud identification, contributing to a boost of 58% in daily processed order volume
 - Collaborated with machine learning scientists to define a process for adding new rules to the order processing system,
