@@ -73,7 +73,7 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 
 --- 
 
-### Generating Storm Nowcast Images from Archival Imagery: A Web Application for Visualizing Predicted Storm Patterns 
+### Generating Storm Nowcast Images from Archival Imagery:   Web App for Visualizing Predicted Storm Patterns 
 - Designed and implemented a Python app with Streamlit using SEVIR (Storm EVent ImageRy) dataset to enable a deep-learning-based Nowcasting API built with FastAPI web framework
 - Built an API that generated and cached the GIF of the near-term forecasted storm images to Google Cloud Storage
 - Deployed large-scale deep learning HuggingFace T5 model on service endpoint using AWS Lambda functions to summarize the lat-long specific storm event narrative from the NOAA dataset
