@@ -73,6 +73,28 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 
 --- 
 
+### SEVIR Nowcasting: Web App for generating Storm Nowcasting Images
+- Designed and implemented a Python app with Streamlit using SEVIR (Storm EVent ImageRy) dataset to enable a deep-learning-based Nowcasting API built with FastAPI web framework
+- Built an API that generated and cached the GIF of the near-term forecasted storm images to Google Cloud Storage
+- Deployed large-scale deep learning HuggingFace T5 and BERT models on service endpoints using AWS Lambda functions to summarize the lat-long specific storm event narrative from the NOAA dataset
+- Enabled batch requests for generating images for multiple locations for hourly updates using Apache Airflow, and cached the output to Google Cloud Storage
+- Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Google DataStudio, and hosted the application on Google App Engine
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![](https://img.shields.io/badge/Airflow-white?logo=Airflow)](#)
+[![](https://img.shields.io/badge/HuggingFace-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
+[![](https://img.shields.io/badge/FastAPI-white?logo=FastAPI)](#)
+[![](https://img.shields.io/badge/AWS-white?logo=AWS)](#)
+[![](https://img.shields.io/badge/GCP-white?logo=GCP)](#)
+
+[View repo - 1 on Github](https://github.com/krishna-aditi/Sevir-Lambda-APIs)
+[View repo - 2 on Github](https://github.com/krishna-aditi/Host-nowcast-API)
+
+---
+
+--- 
+
 ### WebApp for Visual Search using DeepFashion Dataset
 - Implemented Similarity Search Algorithm built by [Ilya Katsov](https://github.com/ikatsov/tensor-house/blob/master/search/visual-search-artistic-style.ipynb)
 - Enabled data ingestion and search on Elastic Cloud using Python Client and Kibana Console
