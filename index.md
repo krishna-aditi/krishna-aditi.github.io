@@ -73,10 +73,10 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 
 --- 
 
-### SEVIR Nowcasting: Web App for generating Storm Nowcasting Images
+### Generating Storm Nowcast Images from Archival Imagery: A Web Application for Visualizing Predicted Storm Patterns 
 - Designed and implemented a Python app with Streamlit using SEVIR (Storm EVent ImageRy) dataset to enable a deep-learning-based Nowcasting API built with FastAPI web framework
 - Built an API that generated and cached the GIF of the near-term forecasted storm images to Google Cloud Storage
-- Deployed large-scale deep learning HuggingFace T5 and BERT models on service endpoints using AWS Lambda functions to summarize the lat-long specific storm event narrative from the NOAA dataset
+- Deployed large-scale deep learning HuggingFace T5 model on service endpoint using AWS Lambda functions to summarize the lat-long specific storm event narrative from the NOAA dataset
 - Enabled batch requests for generating images for multiple locations for hourly updates using Apache Airflow, and cached the output to Google Cloud Storage
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Google DataStudio, and hosted the application on Google App Engine
 
