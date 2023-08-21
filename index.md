@@ -89,6 +89,7 @@ clustering algorithm to be the best model with a silhouette score of 0.42
 [![](https://img.shields.io/badge/GCP-white?logo=GCP)](#)
 
 [View repo - 1 on Github](https://github.com/krishna-aditi/Sevir-Lambda-APIs)
+
 [View repo - 2 on Github](https://github.com/krishna-aditi/Host-nowcast-API)
 
 ---
