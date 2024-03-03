@@ -18,11 +18,10 @@ resulting in the reduction of manual intervention on suspect purchase orders fro
 ---
 
 ### SnowCast: Lake-Effect Snow Prediction with Hybrid Multimodal CNN-LSTM Network
-- Developed a hybrid model combining 3D-CNN and LSTM networks to predict snow with 97.7% accuracy
-- Designed a multimodal architecture processing both - radar images and numerical meteorological data for snow prediction
+- Developed a hybrid model combining 3D-CNN and LSTM networks that fused meteorological data and radar images to
+predict snow over Lake Michigan with an F1 score of 0.87 - a 117% improvement over the baseline decision tree model
 - Created a novel data preparation function to transform the numerical data into sliding window of observations to predict
 snow 3 days in advance based on 5 days of historical data
-- Boosted the overall accuracy of Lake-effect snow prediction by 43%, surpassing the baseline decision tree model
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)](#) 
@@ -36,10 +35,8 @@ snow 3 days in advance based on 5 days of historical data
 ---
 
 ### StockSense: NLP based Stock Market Sentiment Analysis Web App using Streamlit and FastAPI
-
 - Developed a specialized web-crawler to extract stock market specific news from diverse web sources daily
-- Utilized AWS Lambda functions to deploy and operationalize large-scale deep learning models, including HuggingFace T5
-and BERT, for stock news summarization and sentiment analysis
+- Utilized AWS Lambda functions to deploy and operationalize large-scale deep learning models, including HuggingFace T5 and BERT, for stock news summarization and sentiment analysis
 - Orchestrated workflow pipelines using Apache Airflow and hosted the application on Google App Engine for daily updates
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Data Studio
 
@@ -56,12 +53,9 @@ and BERT, for stock news summarization and sentiment analysis
 ---
 
 ### Demographic Clustering: Unleashing Insights Through Unsupervised Algorithms
-
-- Developed unsupervised clustering models, including k-means clustering, agglomerative hierarchical clustering, and
-DBSCAN, resulting in the identification of four target groups based on customer demographics
-- Applied principal component analysis for dimensionality reduction of the feature set to improve overall performance
-- Evaluated and compared the model performances using silhouette analysis, identifying agglomerative hierarchical
-clustering algorithm to be the best model with a silhouette score of 0.42
+- Utilized unsupervised learning techniques including k-means, hierarchical clustering, and DBSCAN to segment customers into four key demographic groups
+- Leveraged principal component analysis to reduce feature dimensions and boost model performance
+- Assessed models via silhouette analysis, determining agglomerative hierarchical clustering as the top performer with a silhouette score of 0.42
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 [![](https://img.shields.io/badge/pandas-white?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMIAAAEDCAMAAABQ/CumAAAAeFBMVEX///8TB1QAAEb/ygDnBIgPAFLNzNYTAFnQ0NgMAFcAAETb2eP39/oUBlfV1N7/xwDmAID/9tfLydcjG17/4Yz//vbCwM3ykcL61OfoBIwyKmgAADYAAE0AAErx8PTIxdT/+un/34T85/Lyir/lAHv50eX+9fkpH2Ma8J+4AAACEklEQVR4nO3dzVIaQRSAUYNCEIGoiYmJivnP+79hFrmLVHELZ6pnmG483xqaPruh5lb32ZkkSZIkSZIkvb52z7dZU2+rT4uH2X6rx6m31afF7M1+87dTb6tPCDWEUEMINYRQQ5MS1tu0nqtMSrhKn26e1v1WmZawyn58g4DQL4QIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECOFA6cvM5a4nYb29yjoO4WmVvM58WPQkbF8e+RqPcDlPVp4t+xLS/W0QEBCqI8yTLpsizN8n/WmJ0CEEBAQEBAQEBIT2CF+/fci6a4hw8y7rvC3CeRYCAgICAgICAgICAgICwlCEtJYIdzdp/3+kdkKHToFQ+RjJMCEcCKF7CAdC6B7CgRC6Nylh9zGtJUJ6uNCsnsOFhhkvPAHC9x+fsloi/Pp5nXTREuH++iLpMwICAgICAgICAgICAgKC/87R7/u0lggdQkBAQEBAQEB4dYQON67UTqh9KuwkDlRBQED4R8gOF5o3Rdh8yepLGO0ez6MNPO+WQ9w3NilhvBAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyECKEshAihLIQIoSyEKJt+lL0SNeADUR4TG9cGWXHew10AkPP4aRBO9ohEuOFUEMINYRQQwg1dAKEDvd41t5t2u7lL0qSJEmSJEnSyfUXeomSFq0EzbkAAAAASUVORK5CYII=)](#) 
@@ -144,7 +138,7 @@ for each reservation
 ### Other projects
 
 - [Airbnb Price Prediction for San Francisco](https://github.com/krishna-aditi/sanfrancisco-airbnb-price-prediction/blob/main/san-francisco-airbnb-price-prediction-git2.ipynb)
-- [Analysis and Estimation of Global Energy Consumption](https://github.com/krishna-aditi/analysis-and-estimation-of-global-energy-consumption) 
+- [Energy Futurecast: ARIMA Model for Global Energy Consumption from Fossil Fuels and Low-Carbon Resources](https://github.com/krishna-aditi/analysis-and-estimation-of-global-energy-consumption) 
 - [Streamlit App to perform RFM Analysis and A/B Testing](https://github.com/krishna-aditi/rfm-analysis-and-ab-testing-streamlit)
 - [Mowgli: Building a Comic Book using Python](https://github.com/krishna-aditi/comic-books-using-python/blob/main/Comic-Mowgli.ipynb)
 
