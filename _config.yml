@@ -1,10 +1,8 @@
 title: Aditi Krishna # your name (or website title) here
 logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  PhD in CS Candidate @ Khoury College - Northeastern University, Boston. Previously worked at QuantUniversity, Amazon, Persistent Systems (4 years of experience in machine learning, and analytics).
-  <br>
-  Research Interests: Human-Computer Interaction, Human-AI Interaction, Human-Centered AI, Information Visualization
-  <br>
+  PhD in CS (HCI, Human-AI Interaction, Info Vis) Candidate @ Khoury College - Northeastern University, Boston. Previously worked at QuantUniversity, Amazon, Persistent Systems (4 years of experience in machine learning, and analytics).
+  <br><br>
   <a href="https://www.linkedin.com/in/aditikrishna/">View My LinkedIn Profile</a>
   
 # remote_theme: pages-themes/minimal@v0.2.0
