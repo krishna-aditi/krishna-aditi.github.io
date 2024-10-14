@@ -28,10 +28,10 @@ snow 3 days in advance based on 5 days of historical data
 ---
 
 ### StockSense: NLP based Stock Market Sentiment Analysis Web App using Streamlit and FastAPI
-- Developed a specialized web-crawler to extract stock market specific news from diverse web sources daily
-- Utilized AWS Lambda functions to deploy and operationalize large-scale deep learning models, including HuggingFace T5 and BERT, for stock news summarization and sentiment analysis
-- Orchestrated workflow pipelines using Apache Airflow and hosted the application on Google App Engine for daily updates
+- Engineered and deployed T5 and BERT language models on AWS Lambda for real-time summarization and sentiment analysis of web-scraped stock news, orchestrating daily update pipelines using Apache Airflow
+- Designed an intuitive user interface for collated financial news, integrating color-encoded sentiment indicators to enhance information comprehension
 - Enabled user logging in BigQuery to analyse user engagement statistics through an interactive dashboard on Data Studio
+- Conducted preliminary user interviews with 5 graduate students, demonstrating the effectiveness of the design intervention as 80% of participants reported it significantly influenced their stock trading decisions
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![](https://img.shields.io/badge/Airflow-white?logo=Airflow)](#)
