@@ -13,7 +13,7 @@ economics principles and visual nudging elements to improve user privacy awarene
 - Conducted pilot user study with semi-structured interviews and think-aloud protocols, finding that visual nudging
 elements enhanced privacy awareness and data disclosure behavior in 67% of participants
 - Performed thematic analysis identifying 5 key themes, and 16 sub-codes around user privacy strategies, revealing that
-- participants employ selective sharing, fake personas, and trust-based decisions when interacting with AI systems
+participants employ selective sharing, fake personas, and trust-based decisions when interacting with AI systems
 
 [![](https://img.shields.io/badge/Streamlit-white?logo=Streamlit)](#)
 [![](https://img.shields.io/badge/OpenAI-%23412991?logo=openai&logoColor=white)](#)
