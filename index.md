@@ -3,8 +3,17 @@
 
 ---
 - Spivak, Shani C., Luca Podo, Rohit Gandikota, Aditi Krishna, Enrico Bertini, and Melanie Tory. 2024. “Characterizing
-LLM Visualization Errors.” OSF. August 23. doi:10.17605/OSF.IO/WZQ3G. Submitted for Proceedings of the CHI
-Conference on Human Factors in Computing Systems (ACM CHI’25)
+LLM Visualization Errors.” OSF. August 23. doi:10.17605/OSF.IO/WZQ3G.
+
+## Research Projects
+---
+### How Nudging Shapes Data Disclosure Decisions in AI Dialogue
+- Developed an LLM-based chat interface using Streamlit, GPT-3.5, and Microsoft Presidio API, incorporating behavioral
+economics principles and visual nudging elements to improve user privacy awareness in AI interactions
+- Conducted pilot user study with semi-structured interviews and think-aloud protocols, finding that visual nudging
+elements enhanced privacy awareness and data disclosure behavior in 67% of participants
+- Performed thematic analysis identifying 5 key themes, and 16 sub-codes around user privacy strategies, revealing that
+- participants employ selective sharing, fake personas, and trust-based decisions when interacting with AI systems
 
 ## Projects in Data Science and Machine Learning
 
